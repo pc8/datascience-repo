@@ -21,5 +21,7 @@ Use of + for unordered list
 + Test 2
 + Test 3
 
+Some text ...
+
     echo "this is a code block";
 
